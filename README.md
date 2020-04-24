@@ -13,16 +13,18 @@ https://cognitiveclass.ai/courses/machine-learning-with-python
   1. Linear Regression
   2. Non-linear Regression
   3. Model evaluation methods
-  4. Module 3 - Classification
-  5. K-Nearest Neighbour
-  6. Decision Trees
-  7. Logistic Regression
-  8. Support Vector Machines
-  9. Model Evaluation
-  10. Module 4 - Unsupervised Learning
-  11. K-Means Clustering
-  12. Hierarchical Clustering
-  13. Density-Based Clustering
+
+## Module 3 - Classification
+  1. K-Nearest Neighbour
+  2. Decision Trees
+  3. Logistic Regression
+  4. Support Vector Machines
+  5. Model Evaluation
+
+## Module 4 - Unsupervised Learning
+  1. K-Means Clustering
+  2. Hierarchical Clustering
+  3. Density-Based Clustering
 
 ## Module 5 - Recommender Systems
   1. Content-based recommender systems
