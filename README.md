@@ -34,3 +34,6 @@ https://cognitiveclass.ai/courses/machine-learning-with-python
   1. Python for data science
 
 ***Note: Please do not copy paste the answers to pass. Practice on your own if you find yourself stuck here in the exercises, rewatch the lectures***
+
+
+![Badge](Machine+Learning+with+Python.png)
