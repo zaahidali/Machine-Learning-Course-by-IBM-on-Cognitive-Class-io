@@ -2,14 +2,14 @@
 
 https://cognitiveclass.ai/courses/machine-learning-with-python
 
-##COURSE SYLLABUS
+## COURSE SYLLABUS
 
-##Module 1 - Introduction to Machine Learning
+## Module 1 - Introduction to Machine Learning
   *Applications of Machine Learning
   *Supervised vs Unsupervised Learning
   *Python libraries suitable for Machine Learning
 
-##Module 2 - Regression
+## Module 2 - Regression
   *Linear Regression
   *Non-linear Regression
   *Model evaluation methods
@@ -24,11 +24,11 @@ https://cognitiveclass.ai/courses/machine-learning-with-python
   *Hierarchical Clustering
   *Density-Based Clustering
 
-##Module 5 - Recommender Systems
+## Module 5 - Recommender Systems
   *Content-based recommender systems
   *Collaborative Filtering
 
-##PREREQUISITES FOR THIS COURSE
+## PREREQUISITES FOR THIS COURSE
   *Python for data science
 
 ***Note: Please do not copy paste the answers to pass. Practice on your own if you find yourself stuck here in the exercises, rewatch the lectures***
