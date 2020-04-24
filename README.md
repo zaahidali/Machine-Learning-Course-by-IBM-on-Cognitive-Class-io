@@ -31,7 +31,7 @@ https://cognitiveclass.ai/courses/machine-learning-with-python
   2. Collaborative Filtering
 
 ## PREREQUISITES FOR THIS COURSE
-  1. Python for data science
+  1. [Python for data science](https://cognitiveclass.ai/courses/python-for-data-science)
 
 ***Note: Please do not copy paste the answers to pass. Practice on your own if you find yourself stuck here in the exercises, rewatch the lectures***
 
